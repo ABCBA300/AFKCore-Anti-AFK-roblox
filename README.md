@@ -6,8 +6,6 @@
 The project focuses on **flexibility, reliability, low resource usage, and convenient background operation**.
 
 ---
->🇷🇺 Русская версия
----
 
 ## 📖 About
 

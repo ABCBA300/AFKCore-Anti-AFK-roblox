@@ -40,20 +40,6 @@ Features will be added gradually as the project develops.
 
 ---
 
-## 🛠️ Technology
-
-The project is planned to use:
-
-* **Python**
-* **PySide6** — graphical user interface
-* **Windows API** — window and system interaction
-* **JSON** — configuration and profiles
-* **Git / GitHub** — version control and project hosting
-
-The exact technology stack may change during development if a better solution is found.
-
----
-
 ## 🚀 Installation
 
 Installation instructions will be added when the first usable release is available.
@@ -71,44 +57,6 @@ Development setup instructions will be added when the initial project structure 
 The project structure will be documented as development progresses.
 
 The repository is intended to remain organized and understandable for both users and contributors.
-
----
-
-## 🗺️ Roadmap
-
-### Phase 1 — Project Foundation
-
-* [ ] Create the initial project structure
-* [ ] Set up the Python environment
-* [ ] Create the basic GUI
-* [ ] Implement application configuration
-* [ ] Set up logging
-
-### Phase 2 — Core Anti-AFK
-
-* [ ] Detect Roblox
-* [ ] Detect the active window
-* [ ] Implement configurable intervals
-* [ ] Implement the first automated action
-* [ ] Implement window switching
-* [ ] Implement returning to the previous application
-
-### Phase 3 — Configuration
-
-* [ ] Add customizable actions
-* [ ] Add randomized intervals
-* [ ] Add global hotkeys
-* [ ] Add notifications
-* [ ] Add profiles
-
-### Phase 4 — Release
-
-* [ ] Improve stability
-* [ ] Optimize resource usage
-* [ ] Improve the interface
-* [ ] Add documentation
-* [ ] Build the first release
-* [ ] Publish the first stable version
 
 ---
 
@@ -150,7 +98,7 @@ The project license will be specified in the `LICENSE` file.
 
 ## 👤 Author
 
-Created and maintained by **[Your GitHub Username]**.
+Created and maintained by **ABCBA300**.
 
 ---
 

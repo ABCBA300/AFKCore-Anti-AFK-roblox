@@ -1,1 +1,0 @@
-# AFKCore-Anti-AFK-roblox
